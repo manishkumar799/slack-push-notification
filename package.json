@@ -1,0 +1,17 @@
+{
+  "name": "slack-push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Manish Kumar Pandit <manish.kp.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^6.8.1",
+    "dotenv": "^16.3.1"
+  }
+}
